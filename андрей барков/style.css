@@ -1,0 +1,44 @@
+body{
+background-image: ur( ./андрей барков.jpg);}
+
+
+.more{
+border: 1px;
+border-radius: 15px;
+padding: 20px;
+margin-left: 200px;
+color: black;
+text-transform: uppercase ;
+text-decoration: none;
+transition: .3s;
+
+}
+
+
+
+
+
+
+
+
+h1{
+text-align: center;
+color: black;
+background-color: brown;
+font-size: 60px;
+}
+
+.first{
+    background-color: brown;
+}
+.second{
+background-color: black;
+color: aliceblue;
+
+}
+.catc{
+border: 1px solid black;
+margin-left: 240px;
+width: 300px;
+height: 100px;
+}
